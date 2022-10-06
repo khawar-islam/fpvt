@@ -1,0 +1,6 @@
+@InProceedings{Khawar_BMVC22_FPVT,
+      author = {Khawar Islam, Muhammad Zaigham Zaheer, Arif Mahmood},
+      title = {Face Pyramid Vision Transformer},
+      booktitle = {Proceedings of the British Machine Vision Conference},
+      year = {2022}
+}
